@@ -10,7 +10,7 @@ Your final report should include each of the following:
 
 ### Player Count
 |  | Total Players |
-| ------------- | ------------- |
+| ------------- | ---: |
 | 0 | 576 |
 
 
@@ -24,9 +24,11 @@ Your final report should include each of the following:
 
 ### Gender Demographics
 
-* Percentage and Count of Male Players
-* Percentage and Count of Female Players
-* Percentage and Count of Other / Non-Disclosed
+| Gender | Total Count | Percentage of Players | 
+| ---: | ---: | ---: | 
+| Male | 484 | 84.03% | 
+| Female | 81 | 14.06% | 
+| Other/Non-Disclosed | 11 | 1.91% | 
 
 ### Purchasing Analysis (Gender)
 
