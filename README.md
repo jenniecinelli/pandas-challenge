@@ -17,7 +17,7 @@ Your final report should include each of the following:
 ### Purchasing Analysis (Total)
 
 |  | Number of Unique Items | Average Price | Number of Purchases | Total Revenue |
-| ------------- | ------------- | ------------- | ------------- |------------- |
+| ------------- | ---: | ---: | ---: | ---: |
 | 0 | 179 | $3.05 | 780 | $2,379.77  |
 
 
