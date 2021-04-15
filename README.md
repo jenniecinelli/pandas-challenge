@@ -13,10 +13,12 @@ Your final report should include each of the following:
 | ------------- | ---: |
 | 0 | 576 |
 
+
 ### Purchasing Analysis (Total)
 |  | Number of Unique Items | Average Price | Number of Purchases | Total Revenue |
 | ------------- | ---: | ---: | ---: | ---: |
 | 0 | 179 | $3.05 | 780 | $2,379.77  |
+
 
 ### Gender Demographics
 | Gender | Total Count | Percentage of Players | 
@@ -25,12 +27,14 @@ Your final report should include each of the following:
 | Female | 81 | 14.06% | 
 | Other/Non-Disclosed | 11 | 1.91% | 
 
+
 ### Purchasing Analysis (Gender)
 | Gender | Purchase Count | Average Purchase Price | Total Purchase Value | Avg Total Purchase per Person | 
 | ---: | ---: | ---: | ---: | ---: | 
 | Male | 652 | $3.02 |  $1,967.64 | $4.07 |
 | Female | 113 | $3.20 |  $361.94 | $4.47 |
 | Other/Non-Disclosed | 15 | $3.35 |  $50.19 | $4.56 |
+
 
 ### Age Demographics
 | Age Groups | Total Count | Percentage of Players | 
@@ -44,6 +48,7 @@ Your final report should include each of the following:
 | 35-39 | 31 | 5.38% | 
 | 40+ | 12 | 2.08% | 
 
+
 ### Purchasing Analysis (Age)
 | Age Groups | Purchase Count | Average Purchase Price |  Total Purchase Value | Avg Total Purchase per Person |
 | ---: | ---: | ---: | ---: | ---: | 
@@ -56,6 +61,7 @@ Your final report should include each of the following:
 | 35-39 | 41 | $3.60 | $147.67 | 4.76% |
 | 40+ | 13 | $2.94 | $38.24 | 3.19% |
 
+
 ### Top Spenders
 | SN | Purchase Count | Average Purchase Price | Total Purchase Value |
 | ---: | ---: | ---: | ---: |
@@ -65,6 +71,7 @@ Your final report should include each of the following:
 | Iral74 | 4 | $3.40 |  $13.62 |
 | Iskadarya95 | 3 | $4.37 |  $13.10 |
 
+
 ### Most Popular Items
 | Item ID | Item Name | Purchase Count | Item Price | Total Purchase Value |
 | ---: | ---: | ---: | ---: | ---: |
@@ -73,6 +80,7 @@ Your final report should include each of the following:
 | 145 | Fiery Glass Crusader | 9 | $4.58 |  $41.22 |
 | 132 | Persuasion | 9 | $3.22 |  $28.99 |
 | 108 | Extraction, Quickblade of Trembling Hands | 9 | $3.53 |  $31.77 |
+
 
 ### Most Profitable Items
 | Item ID | Item Name | Purchase Count | Item Price | Total Purchase Value |
