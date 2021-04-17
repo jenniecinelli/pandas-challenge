@@ -1,8 +1,9 @@
 # pandas-challenge
 
 ## Heroes of Pymoli
+Analysis Report:
 
-As Lead Analyst, this is the analysis of the data for an independent gaming companies data or their most recent fantasy game Heroes of Pymoli.
+This is the analysis of the data for an independent gaming companies data or their most recent fantasy game Heroes of Pymoli.
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. This report breaks down the game's purchasing data into meaningful insights.
 
