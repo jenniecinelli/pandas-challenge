@@ -8,6 +8,8 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 Based on the purchasing analysis in comparison to age, the largest number of purchases come from the age group of 20-24, which is the age group with the highest number of players. However, the age group of 20-24 has an average purchase price of $3.05 and it appears that a few other age groups have higher average purchase prices. For example, the age group 35-39 has the highest average purchase price of $3.60 and the highest average total purchase per person at 4.76%. This shows that it may be an advantage to market this game to persons who fall into this demographic because they are the age group that is willing to spend the most on average.
 
+According to the most popular items analysis, Final Critic is the most popular priced at $4.61 with Oathbreaker as being second most popular priced at $4.23. This is interesting as these products are not the highest priced items sold. The item Nirvana is priced at $4.90 which is the third most profitable item sold below Final Critic and Oathbreaker. Rising prices on Final Critic and Oathbreaker should be a consideration to increase revenue. 
+
 Final Report:
 
 ### Player Count
